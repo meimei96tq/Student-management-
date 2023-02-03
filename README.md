@@ -1,6 +1,8 @@
 # Student-management-
 A console student managemnet program using postgresql
+
 Step 1: Run query.sql to create table
+
 Step 2: Run main.py
 
 Actor list:
